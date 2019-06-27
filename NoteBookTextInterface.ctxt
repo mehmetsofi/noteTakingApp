@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NoteBookTextInterface
+comment1.params=book
+comment1.target=NoteBookTextInterface(NoteBook)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NoteBookTextInterface\r\n\ @param\ book\ The\ notebook\ to\ be\ manipulated.\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Read\ a\ series\ of\ commands\ from\ the\ user\ to\ interact\r\n\ with\ the\ notebook.\ Stop\ when\ the\ user\ types\ 'quit'.\r\n
+comment3.params=
+comment3.target=void\ add()
+comment3.text=\r\n\ Add\ a\ new\ entry.\r\n
+comment4.params=
+comment4.target=void\ remove()
+comment4.text=\r\n\ Remove\ an\ entry\ matching\ a\ key.\r\n
+comment5.params=
+comment5.target=void\ help()
+comment5.text=\r\n\ List\ the\ available\ commands.\r\n
+comment6.params=
+comment6.target=void\ list()
+comment6.text=\r\n\ List\ the\ book's\ contents.\r\n
+numComments=7
